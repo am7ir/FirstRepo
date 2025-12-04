@@ -1,7 +1,6 @@
 '''
 This program compute your legal age
-Amir Jahandideh
-Shiraz Iran
+Amirr
 '''
 
 def get_min(x,y):
